@@ -32,4 +32,4 @@ Compile e execute a aplicação.
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
 📧 Contato
-Para dúvidas ou sugestões, entre em contato pelo e-mail: seuemail@lifekar.com.
+Para dúvidas ou sugestões, entre em contato pelo e-mail: lucasmirandaalphakar@gmail.com
